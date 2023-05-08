@@ -1,0 +1,23 @@
+h1 {
+    font-family: "Comic Sans MS";
+	color: white;
+	text-shadow:0.05em -0.05em 0.2em navy;
+}
+body {
+    background-color: rgb(26, 70, 26);
+}
+
+h2 {
+    color: skyblue;
+    font-family:  "ヒラギノ明朝 ProN";
+}
+
+p {
+    color: red;
+    font-family: "Comic Sans MS";
+}
+
+h3 {
+    color: #3f3faf;
+	background: linear-gradient(50deg, white,#ffefaf)
+}
